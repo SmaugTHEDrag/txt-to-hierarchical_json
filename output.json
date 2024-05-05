@@ -1,0 +1,56 @@
+
+{
+  "LUẬT_THÀNH_CÔNG": {
+    "CỘNG_HÒA_XÃ_HỘI_CHỦ_NGHĨA_VIỆT_NAM": {
+      "khẩu_hiệu": "Độc lập – Tự do - Hạnh phúc",
+      "HỢP_ĐỒNG_LAO_ĐỘNG_XÁC_ĐỊNH_THỜI_HẠN": {
+        "Số": "2508/HDLÐ",
+        "Căn_cứ": [
+          "Bộ luật lao động 2019 & các Nghị định hướng dẫn",
+          "Khả năng và nhu cầu của các bên"
+        ],
+        "Ngày_ký_kết": "25 tháng 08 năm 2020",
+        "Địa_điểm_ký_kết": "Công ty Cổ phần Dược phẩm Á Châu",
+        "Bên_A": {
+          "Người_sử_dụng_lao_động": {
+            "Công_ty": "CÔNG TY CỔ PHẦN DƯỢC PHẨM Á CHÂU",
+            "Mã_số_thuế": "1934803729",
+            "Địa_chỉ": "Số 188 Mai Dịch, Cầu Giấy, Hà Nội",
+            "Điện_thoại": "0247593788",
+            "Đại_diện": {
+              "Họ_tên": "Bà Nguyễn Bảo Châu",
+              "Chức_vụ": "Giám đốc"
+            }
+          }
+        },
+        "Bên_B": {
+          "Người_lao_động": {
+            "Họ_và_tên": "HOÀNG THỊ NGỌC LAN",
+            "Giới_tính": "Nữ",
+            "Sinh_ngày": "10/09/1990",
+            "CMND_số": "0204783678",
+            "Ngày_cấp_CMND": "20/2/2010",
+            "Nơi_cấp_CMND": "Công an thành phố Hà Nội",
+            "Địa_chỉ": "phường Dịch Vọng, quận Cầu Giấy, Hà Nội",
+            "Điện_thoại": "0857490394"
+          }
+        },
+        "Nội_dung_hợp_đồng": {
+          "Điều_1": {
+            "Công_việc_phải_làm": "Nhân viên Kế Toán",
+            "Địa_điểm_làm_việc": "Số 188 Mai Dịch, Cầu Giấy, Hà Nội",
+            "Loại_hợp_đồng": "Hợp đồng lao động xác định thời hạn – Kỳ lần thứ nhất",
+            "Thời_hạn_hợp_đồng": "01 năm",
+            "Từ_ngày": "5 tháng 03 năm 2021",
+            "Đến_ngày": "5 tháng 03 năm 2022"
+          },
+          "Điều_2": {
+            "Lương_căn_bản": "7.000.000 đồng /tháng",
+            "Phụ_cấp": "300.000 đồng/tháng"
+          }
+        }
+      }
+    }
+  }
+}
+
